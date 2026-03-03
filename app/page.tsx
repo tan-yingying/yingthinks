@@ -91,7 +91,7 @@ export default function Home() {
               <CameraIcon />
             </a>
             <a
-              href="https://www.linkedin.com/in/yingyingtan"
+              href="https://www.linkedin.com/in/tan-yingying/"
               target="_blank"
               rel="noopener noreferrer"
               aria-label="LinkedIn"
@@ -134,7 +134,7 @@ export default function Home() {
               Instagram
             </a>
             <a
-              href="https://www.linkedin.com/in/yingyingtan"
+              href="https://www.linkedin.com/in/tan-yingying/"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2.5 w-full py-3.5 px-5 rounded-[6px] text-white text-sm font-medium transition-colors"
