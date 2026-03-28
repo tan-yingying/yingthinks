@@ -126,7 +126,7 @@ export default function Home() {
           {/* Social Link Buttons */}
           <div className="flex flex-col w-full gap-2.5">
             <a
-              href="https://ns.com/tanyingying/apply"
+              href="https://ns.com/ying"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2.5 w-full py-3.5 px-5 rounded-[6px] text-white text-sm font-medium transition-colors"
@@ -266,7 +266,7 @@ export default function Home() {
               School.
             </p>
             <a
-              href="https://ns.com/tanyingying/apply"
+              href="https://ns.com/ying"
               target="_blank"
               rel="noopener noreferrer"
               className="text-[13px] font-medium"
