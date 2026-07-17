@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F5F0E8"/>
+  <rect x="0" y="0" width="1200" height="12" fill="#4A5A42"/>
+  <rect x="0" y="618" width="1200" height="12" fill="#4A5A42"/>
+
+  <text x="98" y="330" font-family="Georgia, serif" font-size="96" font-weight="700" fill="#4A5A42">Ying Ying Tan</text>
+  <text x="102" y="410" font-family="Georgia, serif" font-size="42" fill="#6B7A5F">Thoughts on money, family &amp; living freely.</text>
+  <text x="102" y="480" font-family="Georgia, serif" font-size="34" fill="#8A927E">bio.yings.me</text>
+</svg>
