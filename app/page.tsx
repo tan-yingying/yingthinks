@@ -302,7 +302,14 @@ export default function Home() {
             className="text-xs font-light text-center leading-relaxed"
             style={{ color: "#8A9080" }}
           >
-            I also work in brand partnerships and cultural strategy.
+            I also work in brand partnerships and cultural strategy.{" "}
+            <a
+              href="https://yings.me"
+              className="underline underline-offset-2"
+              style={{ color: "#8A9080" }}
+            >
+              More at yings.me
+            </a>
           </p>
 
           <footer className="pt-6">
