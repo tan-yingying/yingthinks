@@ -113,8 +113,8 @@ export default function Home() {
             className="text-[13px] font-light leading-relaxed text-center"
             style={{ color: "#4A5A42" }}
           >
-            Mother of two. Lived in 6 countries. Currently inside a startup
-            society. Thoughts on money, family &amp; living freely.
+            Mother of two. Lived in 6 countries. Thoughts on money, family
+            &amp; living freely.
           </p>
 
           {/* Social Link Buttons */}
