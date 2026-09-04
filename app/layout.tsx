@@ -18,7 +18,7 @@ const poppins = Poppins({
 
 const TITLE = "Ying Ying Tan · Thoughts on Money, Family & Living Freely";
 const DESCRIPTION =
-  "Mother of two. Lived in 6 countries. Currently inside a startup society. Sharing thoughts on money, family, and living freely.";
+  "Mother of two. Lived in 6 countries. Sharing thoughts on money, family, and living freely.";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://bio.yings.me"),
